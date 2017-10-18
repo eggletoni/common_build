@@ -1,2 +1,2 @@
 # common_build
-core repositiry
+core repository
